@@ -1,0 +1,13 @@
+.mainContent {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+}
+
+#ourviz {
+  min-width: 800px;
+  width: 0px;
+  margin-left: auto;
+  margin-right: auto;
+}
